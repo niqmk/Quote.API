@@ -23,6 +23,8 @@ authorID
 categoryID
 authorID
 
+***
+
 - [Search](http://quote.mjstone.uno/api/search)
 **Parameters:**
 search
