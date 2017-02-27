@@ -1,30 +1,30 @@
 # Quote.API
-http://quote.mjstone.uno
+https://quote.crawloft.com
 
-- [List Category](http://quote.mjstone.uno/api/getCategory)
+- [List Category](https://quote.crawloft.com/api/getCategory)
 **Parameters:**
 
 ***
 
-- [List Author](http://quote.mjstone.uno/api/getAuthor)
+- [List Author](https://quote.crawloft.com/api/getAuthor)
 **Parameters:**
 
 ***
 
-- [List Quote](http://quote.mjstone.uno/api/getQuote)
-**Parameters:**
-categoryID
-authorID
-
-***
-
-- [Random Quote](http://quote.mjstone.uno/api/getRandomQuote)
+- [List Quote](https://quote.crawloft.com/api/getQuote)
 **Parameters:**
 categoryID
 authorID
 
 ***
 
-- [Search](http://quote.mjstone.uno/api/search)
+- [Random Quote](https://quote.crawloft.com/api/getRandomQuote)
+**Parameters:**
+categoryID
+authorID
+
+***
+
+- [Search](https://quote.crawloft.com/api/search)
 **Parameters:**
 search
